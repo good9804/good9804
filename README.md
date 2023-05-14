@@ -1,5 +1,8 @@
 <div align=center>
 
+  ### Backend Developer
+  Name: Lee Geon Hee<br>
+  School:Kwangwoon University, SoftWare
   ### 💻 Skills
 <div style="display:flex; flex-direction:row;" align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -24,6 +27,4 @@
   ### 📖algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=good9804)](https://solved.ac/good9804/)
   </div>
-  ### Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=good9804)](https://github.com/good9804/github-readme-stats)
   </div>
