@@ -1,8 +1,6 @@
 <div align=center>
 
   ### Backend Developer
-  Name: Lee Geon Hee<br>
-  School:Kwangwoon University, SoftWare
   ### 💻 Skills
 <div style="display:flex; flex-direction:row;" align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
