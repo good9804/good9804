@@ -17,10 +17,6 @@
 </div>
 <div align="center">
 
-### 📃Certification
-  OPIC IM2(23.03.11)
-  <br>
-  SQL Developer(23.04.14)
   
   ### 📖algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=good9804)](https://solved.ac/good9804/)
